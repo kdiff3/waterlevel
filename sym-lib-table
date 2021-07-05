@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name new_water_level-rescue)(type Legacy)(uri ${KIPRJMOD}/new_water_level-rescue.lib)(options "")(descr ""))
+  (lib (name Arduino-nano-33)(type Legacy)(uri /home/weiler/kicad/Nano_33/lib/Arduino-nano-33.lib)(options "")(descr ""))
+)
